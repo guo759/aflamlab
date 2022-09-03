@@ -1,8 +1,6 @@
 ﻿1
 00:00:02,016 --> 00:00:27,027
-<b>{\fnArabic Typesetting}{\fs40}{\c&HFFFFFF&\t(0,5000,\c&HFF0000&)}# {\c&HFFFFFF&)}ترجمة{\c&HFFFFFF&\t(0,5000,\c&HFF0000&)} #
-{\c&HFFFFFF&\t(0,5000,\c&H0000FF&)}"{\c&HFFFFFF&\t(0,5000,\c&HF4CF14&)}يوسف فريد{\c&HFFFFFF&\t(0,5000,\c&H0000FF&)}"
-{\fs30}{\c&HFFFFFF&\t(0,5000,\c&HFF0000&)}({\c&HFFFFFF&)}مشاهدة ممتعة{\c&HFFFFFF&\t(0,5000,\c&HFF0000&)})</b>
+<i> لإظهار قائمة الترجمة و الصوت [cc] إضغط على علامة </i>
 
 2
 00:00:38,250 --> 00:00:40,476
@@ -3602,7 +3600,5 @@
 
 846
 02:08:54,193 --> 02:17:17,931
-<b>{\fnArabic Typesetting}{\fs40}{\c&HFFFFFF&\t(0,5000,\c&HFF0000&)}# {\c&HFFFFFF&)}ترجمة{\c&HFFFFFF&\t(0,5000,\c&HFF0000&)} #
-{\c&HFFFFFF&\t(0,5000,\c&H0000FF&)}"{\c&HFFFFFF&\t(0,5000,\c&HF4CF14&)}يوسف فريد{\c&HFFFFFF&\t(0,5000,\c&H0000FF&)}"
-{\fs30}{\c&HFFFFFF&)}FB.com/YousseFaridTheInterpreter</b>
+<i> لا تنسى دعمنا لنستمر ; ترجمة يوسف فريد</i>
 
